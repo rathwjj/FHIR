@@ -4,14 +4,14 @@ This repository contains curated reference links and documentation related to th
 
 ---
 
-## 🔗 Official FHIR Documentation
+## Official FHIR Documentation
 
 - [HL7 RESTful API Specification (HL7.org)](https://www.hl7.org/fhir/http.html)  
   Core specification for FHIR's RESTful interactions (e.g., `GET`, `POST`, `PUT`, `DELETE`).
 
 ---
 
-## ☁️ Cloud Provider FHIR Services
+## Cloud Provider FHIR Services
 
 ### Microsoft Azure
 - [Azure FHIR Service Documentation (Microsoft)](https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/)  
@@ -23,7 +23,7 @@ This repository contains curated reference links and documentation related to th
 
 ---
 
-## 🇨🇦 Canadian FHIR Implementations
+## Canadian FHIR Implementations
 
 - [Canada Health Infoway – FHIR Overview](https://infocentral.infoway-inforoute.ca/en/standards/canadian/fhir)  
   Guidance on FHIR usage specific to Canadian healthcare systems.
@@ -33,13 +33,13 @@ This repository contains curated reference links and documentation related to th
 
 ---
 
-## 📘 About FHIR
+## About FHIR
 
 FHIR (Fast Healthcare Interoperability Resources) is a global standard developed by HL7 for exchanging healthcare information electronically. It defines a set of "resources" and API interactions that make health data exchange interoperable, flexible, and developer-friendly.
 
 ---
 
-## 💡 Use Cases
+## Use Cases
 
 This repository supports:
 - Healthcare IT professionals exploring interoperability standards
